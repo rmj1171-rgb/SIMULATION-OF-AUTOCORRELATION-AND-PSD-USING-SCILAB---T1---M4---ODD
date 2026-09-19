@@ -1,3 +1,4 @@
+
 # SIMULATION-OF-AUTOCORRELATION-AND-PSD-USING-SCILAB---T1---M4---ODD
 # SIMULATION OF AUTOCORRELATION AND PSD USING SCILAB
 
@@ -56,4 +57,8 @@ Visualize the autocorrelation function and PSD.
 - If any Error, correct it in code and execute again.
 - Verify the generated waveform using Tabulation and Model Waveform.
 
-## MODEL GRAPH
+## GRAPH
+<img width="1600" height="746" alt="b12fb862-e86a-485f-aeb4-c7ab1707bc66" src="https://github.com/user-attachments/assets/de93fb49-16e7-462e-840c-fea2fab49a25" />
+
+## RESULT
+<img width="1280" height="453" alt="e7133dbf-a5f5-49d6-b5e0-40f11c335cbb" src="https://github.com/user-attachments/assets/ae98c878-7ba8-45ac-86bf-60080f17cee5" />
